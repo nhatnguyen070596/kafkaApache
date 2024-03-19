@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{91A78B63-BDD8-4D51-A55D-A970D6D7D729}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="KafkaConsumer1/ConsumeMessage.cs">
+    <Files>
+      <File FileName="KafkaConsumer1/Program.cs" Line="5" Column="30" />
+      <File FileName="KafkaConsumer1/ConsumeMessage.cs" Line="24" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="KafkaConsumer1" expanded="True">
+            <Node name="KafkaConsumer1">
+              <Node name="ConsumeMessage.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.KafkaConsumer1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,5 @@
+/Users/nhatnguyenminh/kafkaApache/afkaPublish/afkaPublish/obj/Debug/net8.0/afkaPublish.csproj.AssemblyReference.cache
+/Users/nhatnguyenminh/kafkaApache/afkaPublish/afkaPublish/obj/Debug/net8.0/afkaPublish.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nhatnguyenminh/kafkaApache/afkaPublish/afkaPublish/obj/Debug/net8.0/afkaPublish.AssemblyInfoInputs.cache
+/Users/nhatnguyenminh/kafkaApache/afkaPublish/afkaPublish/obj/Debug/net8.0/afkaPublish.AssemblyInfo.cs
+/Users/nhatnguyenminh/kafkaApache/afkaPublish/afkaPublish/obj/Debug/net8.0/afkaPublish.csproj.CoreCompileInputs.cache

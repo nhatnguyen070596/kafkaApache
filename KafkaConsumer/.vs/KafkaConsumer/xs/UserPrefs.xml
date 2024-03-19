@@ -1,0 +1,4 @@
+﻿<Properties StartupConfiguration="{2EB2801A-04D0-4820-BB60-2A3AC37C8FCA}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.KafkaConsumer FirstBuild="True" />
+</Properties>

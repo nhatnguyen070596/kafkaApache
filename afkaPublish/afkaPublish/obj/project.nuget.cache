@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "YRE8KXFVdEelikzHYyBrc8SdIEuL2pZ43CVu+Ah1RjrLcnrZiYAJR6e8MneVmF1pvr/alGcyCINTcHXN9ZdlVA==",
+  "success": true,
+  "projectFilePath": "/Users/nhatnguyenminh/kafkaApache/afkaPublish/afkaPublish/afkaPublish.csproj",
+  "expectedPackageFiles": [
+    "/Users/nhatnguyenminh/.nuget/packages/confluent.kafka/2.3.0/confluent.kafka.2.3.0.nupkg.sha512",
+    "/Users/nhatnguyenminh/.nuget/packages/librdkafka.redist/2.3.0/librdkafka.redist.2.3.0.nupkg.sha512",
+    "/Users/nhatnguyenminh/.nuget/packages/system.memory/4.5.0/system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
